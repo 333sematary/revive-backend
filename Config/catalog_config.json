@@ -1,0 +1,51 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_339_Athena_Commando_M_RobotTrouble"
+    ],
+    "price": 1500
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_161_Athena_Commando_M_Drift"
+    ],
+    "price": 2000
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaDance:EID_PopLock"
+    ],
+    "price": 800
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaBackpack:BID_214_LoveLlama"
+    ],
+    "price": 1200
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_118_Squishy"
+    ],
+    "price": 1200
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_155_ValentinesFrozen"
+    ],
+    "price": 1200
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_407_Athena_Commando_M_BattleSuit"
+    ],
+    "price": 2000
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_163_Athena_Commando_F_Viking"
+    ],
+    "price": 1500
+  }
+}

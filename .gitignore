@@ -1,0 +1,21 @@
+node_modules/
+ClientSettings/
+*.Sav
+*.log
+*.bak
+*.json.bak
+.env
+.env.*
+!.env.example
+
+# Local secrets and runtime state
+Config/config.json
+tokenManager/tokens.json
+ssl/*.key
+ssl/*.pem
+ssl/*.crt
+
+# Local editor and generated files
+.vs/
+coverage/
+dist/

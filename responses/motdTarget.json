@@ -1,0 +1,68 @@
+{
+    "contentType": "collection",
+    "contentId": "motd-default-collection",
+    "tcId": "634e8e85-e2fc-4c68-bb10-93604cf6605f",
+    "contentItems": [
+      {
+        "contentType": "content-item",
+        "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+        "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+        "contentFields": {
+          "body": {
+            "ar": "Revive Backend - Credits to 333",
+            "en": "Revive Backend - Credits to 333",
+            "de": "Revive Backend - Credits to 333",
+            "es": "Revive Backend - Credits to 333",
+            "es-419": "Revive Backend - Credits to 333",
+            "fr": "Revive Backend - Credits to 333",
+            "it": "Revive Backend - Credits to 333",
+            "ja": "Revive Backend - Credits to 333",
+            "ko": "Revive Backend - Credits to 333",
+            "pl": "Revive Backend - Credits to 333",
+            "pt-BR": "Revive Backend - Credits to 333",
+            "ru": "Revive Backend - Credits to 333",
+            "tr": "Revive Backend - Credits to 333"
+          },
+          "entryType": "Website",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://i.imgur.com/ImIwpRm.png"
+            }
+          ],
+          "tabTitleOverride": "Revive Backend",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://i.imgur.com/KaJkHgq.png"
+            }
+          ],
+          "title": {
+            "ar": "مرحبًا بك في Reload!",
+            "en": "Welcome to Reload!",
+            "de": "Willkommen bei Reload!",
+            "es": "¡Bienvenidos a Reload!",
+            "es-419": "¡Bienvenidos a Reload!",
+            "fr": "Bienvenue sur Reload !",
+            "it": "Benvenuto in Reload!",
+            "ja": "Reloadへようこそ！",
+            "ko": "Reload에 오신 것을 환영합니다!",
+            "pl": "Witaj w Reloadze!",
+            "pt-BR": "Bem-vindo ao Reload!",
+            "ru": "Добро пожаловать в Reload!",
+            "tr": "Reload'a Hoş Geldiniz!"
+          },
+          "videoAutoplay": false,
+          "videoLoop": false,
+          "videoMute": false,
+          "videoStreamingEnabled": false,
+          "websiteButtonText": "Revive Backend - Github",
+          "websiteURL": "https://github.com/Project-Reload/Reload-Backend"
+        },
+        "contentHash": "reloadbackendcontenthashtylawin",
+        "contentSchemaName": "MotdWebsiteNewsWithVideo"
+        }
+    ]
+}

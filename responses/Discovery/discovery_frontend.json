@@ -1,0 +1,41 @@
+{
+  "Panels": [
+    {
+      "PanelName": "ByEpicWoven",
+      "Pages": [
+        {
+          "results": [
+            {
+              "linkData": {
+                "namespace": "fn",
+                "mnemonic": "playlist_showdownalt_solo",
+                "linkType": "BR:Playlist",
+                "active": true,
+                "disabled": false,
+                "version": 95,
+                "moderationStatus": "Unmoderated",
+                "accountId": "epic",
+                "creatorName": "Epic",
+                "descriptionTags": [],
+                "metadata": {
+                  "image_url": "https://i.imgur.com/IdUjyZg.png",
+                  "matchmaking": {
+                    "override_playlist": "playlist_showdownalt_solo"
+                  }
+                }
+              },
+              "lastVisited": null,
+              "linkCode": "playlist_showdownalt_solo",
+              "isFavorite": false
+            }
+          ],
+          "hasMore": false
+        }
+      ]
+    }
+  ],
+  "TestCohorts": [
+    "Reload"
+  ],
+  "ModeSets": {}
+}
